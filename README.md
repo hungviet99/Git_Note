@@ -1,1 +1,1 @@
-# Ghi Chep Git
+# Git learning notes
