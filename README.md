@@ -1,1 +1,1 @@
-# Ghi chép nghiên cứu git
+# Ghi Chep Git
