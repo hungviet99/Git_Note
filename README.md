@@ -1,1 +1,1 @@
-# Ghi chép nghiên cứu git
+# Git learning notes
